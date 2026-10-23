@@ -1,109 +1,112 @@
-<h1 align="center">Hi, I'm Abbe 👋</h1>
-<h3 align="center">Full Stack Developer · Founder of DigitalTech · Gothenburg, Sweden 🇸🇪</h3>
+<!-- ===== Header banner ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abdullah%20Abu-Alhaijja&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Founder%20of%20DigitalTech&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
   <a href="https://digitaltech.se">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+Supabase;I+build+SaaS+products+and+business+websites;Web+development+%C2%B7+SEO+%C2%B7+Digital+marketing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hej!+Hi!+I'm+Abbe+%F0%9F%91%8B;I+build+SaaS+products+and+business+websites;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;Based+in+Gothenburg%2C+Sweden+%F0%9F%87%B8%F0%9F%87%AA" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://digitaltech.se"><img src="https://img.shields.io/badge/DigitalTech-digitaltech.se-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Abbe91&style=for-the-badge&color=58A6FF&label=Profile+views" />
+  <a href="https://digitaltech.se"><img src="https://img.shields.io/badge/DigitalTech-digitaltech.se-7AA2F7?style=for-the-badge&labelColor=1a1b27&logo=googlechrome&logoColor=7AA2F7" /></a>
+  <img src="https://img.shields.io/badge/Gothenburg-Sweden-7AA2F7?style=for-the-badge&labelColor=1a1b27&logo=googlemaps&logoColor=7AA2F7" />
+  <img src="https://komarev.com/ghpvc/?username=Abbe91&style=for-the-badge&color=7AA2F7&label=VIEWS" />
 </p>
 
----
+<br/>
 
-### 🧑‍💻 About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About me
 
-- 🏢 Founder of **[DigitalTech](https://digitaltech.se)**, a web development, digital marketing and SEO agency
-- ⚛️ I build full-stack products with **React, Next.js, Node.js and Supabase**
-- 🔍 I care about fast, SEO-friendly sites that actually bring in customers
-- 🌍 I speak **Swedish, Arabic and English**, and I build products for all three audiences
-- 💼 Previously worked with **Worldline** and **Zenio**
+```js
+const abbe = {
+  role:      "Full Stack Developer & Founder",
+  company:   "DigitalTech — web development, SEO & digital marketing",
+  location:  "Gothenburg, Sweden 🇸🇪",
+  languages: ["Swedish", "Arabic", "English"],
+  stack:     ["React", "Next.js", "Node.js", "Supabase"],
+  focus:     "Fast, SEO-friendly products that bring in real customers",
+  workedWith:["Worldline", "Zenio"],
+};
+```
 
----
+<br/>
 
-### 🚀 Featured projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧾 <a href="https://fakturify.se">Fakturify</a></h4>
-      Cloud accounting SaaS for small businesses in Sweden, with an Arabic RTL interface for Arabic-speaking business owners. Invoicing with F-skatt and VAT details, credit invoices, VAT return, SIE4 export, locked year-end entries, Stripe subscriptions.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      <h3>🧾 Fakturify</h3>
+      <p>Cloud accounting SaaS for small businesses in Sweden, with an Arabic RTL interface for Arabic-speaking business owners. Invoicing with F-skatt & VAT, credit invoices, VAT return, SIE4 export and Stripe subscriptions.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,supabase" height="28" />
+      </p>
+      <a href="https://fakturify.se"><img src="https://img.shields.io/badge/Live_site-fakturify.se-7AA2F7?style=flat-square&labelColor=1a1b27" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://sakerhetab.se">Säkerhetab</a></h4>
-      Website for a window security grille company. Interactive grille designer where customers draw their own grille and send it straight to a quote request, a price calculator, SEO city landing pages and Schema markup.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      <h3>🛡️ Säkerhetab</h3>
+      <p>Website for a window security grille company. Interactive grille designer that turns a customer's drawing into a quote request, a live price calculator, SEO city landing pages and Schema markup.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,supabase,netlify" height="28" />
+      </p>
+      <a href="https://sakerhetab.se"><img src="https://img.shields.io/badge/Live_site-sakerhetab.se-7AA2F7?style=flat-square&labelColor=1a1b27" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔭 <a href="https://resonam.com">RESONA</a></h4>
-      An AI observatory where AI models talk to each other. Currently building <b>Language Lens</b>: the same AI debating a topic in Levantine Arabic, Swedish and English, shown side by side.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+      <h3>🔭 RESONA</h3>
+      <p>An AI observatory where AI models talk to each other. Now building <b>Language Lens</b>: the same AI debating a topic in Levantine Arabic, Swedish and English, side by side.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="28" />
+      </p>
+      <a href="https://resonam.com"><img src="https://img.shields.io/badge/Live_site-resonam.com-7AA2F7?style=flat-square&labelColor=1a1b27" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🛒 Laqta (لقطة)</h4>
-      Arabic classifieds marketplace for Syria, inspired by Blocket.se. Listings across categories like homes, cars, jobs and services, with category-specific fields. Work in progress.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <h3>🛒 Laqta · لقطة</h3>
+      <p>Arabic classifieds marketplace for Syria, inspired by Blocket.se. Listings for homes, cars, jobs, services and more, each with category-specific fields.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=vite,react,supabase" height="28" />
+      </p>
+      <img src="https://img.shields.io/badge/Status-in_progress-E0AF68?style=flat-square&labelColor=1a1b27" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🛠 Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abbe91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbe91&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,tailwind&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vite,wordpress,netlify,vercel,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abbe91&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/SEO-1a1b27?style=for-the-badge&logo=google&logoColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Google_Ads-1a1b27?style=for-the-badge&logo=googleads&logoColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Stripe-1a1b27?style=for-the-badge&logo=stripe&logoColor=7AA2F7" />
 </p>
 
----
+<br/>
 
-### 🐍 Contribution snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abbe91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=7AA2F7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbe91&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abbe91&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=E0AF68&currStreakLabel=7AA2F7" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abbe91&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7AA2F7&line=7AA2F7&point=E0AF68&area=true" />
+</p>
+
+<br/>
 
 <p align="center">
   <picture>
@@ -113,9 +116,12 @@
   </picture>
 </p>
 
----
+<br/>
 
 <p align="center">
-  <b>Need a website, a web app or better Google rankings?</b><br/>
-  <a href="https://digitaltech.se">Let's talk 👋</a>
+  <b>Need a website, a web app or better Google rankings?</b><br/><br/>
+  <a href="https://digitaltech.se"><img src="https://img.shields.io/badge/Let's_work_together-digitaltech.se-7AA2F7?style=for-the-badge&labelColor=1a1b27" /></a>
 </p>
+
+<!-- ===== Footer wave ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
