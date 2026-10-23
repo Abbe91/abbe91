@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abbe 👋</h1>
+<p align="center">Full Stack Developer in Gothenburg · Founder of DigitalTech</p>
 
-<!--
-**Abbe91/abbe91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=React+%7C+Next.js+%7C+Supabase;Web+%26+SEO&center=true" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠 Tech
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Abbe91&show_icons=true&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbe91&layout=compact&theme=tokyonight)
+
+🌐 [abdullahabualhaijja.site](https://abdullahabualhaijja.site)
