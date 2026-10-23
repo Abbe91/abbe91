@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Developer · Founder of DigitalTech · Gothenburg, Sweden 🇸🇪</h3>
 
 <p align="center">
-  <a href="https://abdullahabualhaijja.site">
+  <a href="https://digitaltech.se">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+Supabase;I+build+SaaS+products+and+business+websites;Web+development+%C2%B7+SEO+%C2%B7+Digital+marketing" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://abdullahabualhaijja.site"><img src="https://img.shields.io/badge/Portfolio-abdullahabualhaijja.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://digitaltech.se"><img src="https://img.shields.io/badge/DigitalTech-digitaltech.se-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Abbe91&style=for-the-badge&color=58A6FF&label=Profile+views" />
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About me
 
-- 🏢 Founder of **DigitalTech**, a web development, digital marketing and SEO agency
+- 🏢 Founder of **[DigitalTech](https://digitaltech.se)**, a web development, digital marketing and SEO agency
 - ⚛️ I build full-stack products with **React, Next.js, Node.js and Supabase**
 - 🔍 I care about fast, SEO-friendly sites that actually bring in customers
 - 🌍 I speak **Swedish, Arabic and English**, and I build products for all three audiences
@@ -117,5 +117,5 @@
 
 <p align="center">
   <b>Need a website, a web app or better Google rankings?</b><br/>
-  <a href="https://abdullahabualhaijja.site">Let's talk 👋</a>
+  <a href="https://digitaltech.se">Let's talk 👋</a>
 </p>
